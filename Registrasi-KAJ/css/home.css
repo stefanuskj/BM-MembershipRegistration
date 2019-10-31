@@ -1,0 +1,11 @@
+body{
+    background: url('../img/1.jpeg') center fixed;
+    background-size: cover;
+   
+}
+#home-content{
+    color:white;
+}
+.content{
+    text-align: center;   
+}
